@@ -1,0 +1,10 @@
+name: ItsyForumMC
+main: xyz.itsylands.ItsyJoin.Main
+version: 1.9.1
+api-version: 1.8.8
+author: Lenny
+commands:
+  forum:
+    description: Gives a player the link to the forum
+    usage: /<command>
+    aliases: [ forums, website ]
